@@ -1,0 +1,17 @@
+🔹 User Profile Table
+Stores user inputs:
+
+user_id
+name
+skills
+challenges
+goals
+
+🔹 Career Paths Table
+Maps careers to learning paths:
+
+career_name
+required_skills
+recommended_courses
+estimated_time_months
+platforms
